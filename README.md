@@ -3,9 +3,20 @@ Macro Behavioral Targeting
 
 We investigate a class of emerging online marketing challenges in social networks; macro behavioral targeting (MBT) is introduced as non-personalized broadcasting efforts to massive populations. We propose a new probabilistic graphical model for MBT. Further, a linear-time approximation method is proposed to circumvent an intractable parametric representation of user behaviors. We compare the proposed model with the existing state-of-the-art method on real datasets from social networks. Our model outperforms in all categories by comfortable margins.
 
-Publication:
-* ``13th SIAM Data Mining 2013`` Yusheng Xie, Zhengzhang Chen, Kunpeng Zhang, Md. Mostofa Ali Patwary, Yu Cheng, Haotian Liu, Ankit Agrawal, and Alok Choudhary. *Graphical Modeling of Macro Behavioral Targeting in Social Networks*
-* A version has been sent to a top Marketing journal for review.
+Citation
+==================
+
+If you find the code in this respository useful for your research, please cite our paper:
+```
+@inproceedings{xie2013graphical,
+  title={Graphical modeling of macro behavioral targeting in social networks},
+  author={Xie, Yusheng and Chen, Zhengzhang and Zhang, Kunpeng and Patwary, Md Mostofa Ali and Cheng, Yu and Liu, Haotian and Agrawal, Ankit and Choudhary, Alok},
+  booktitle={Proceedings of the 2013 SIAM International Conference on Data Mining},
+  pages={740--748},
+  year={2013},
+  organization={SIAM}
+}
+```
 
 Audience & Problem
 ==================
